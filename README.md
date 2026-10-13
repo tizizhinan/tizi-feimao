@@ -71,10 +71,10 @@ AI 平台和流媒体判定你在哪个地区，靠的是**出口 IP 的归属**
 
 | 指标 | 数值 |
 | :-- | :-- |
-| 最近一次检测 | 2026-10-12 20:00 |
-| 官网状态 | 在线（624ms） |
-| 30 天可用率 | 100%（已测 21 天） |
-| 连续正常 | 21 天 |
+| 最近一次检测 | 2026-10-13 20:00 |
+| 官网状态 | 在线（654ms） |
+| 30 天可用率 | 100%（已测 22 天） |
+| 连续正常 | 22 天 |
 
 可用率只按官网可达计算。逐日色条与完整历史见 [https://tizizhinan.co/status/](https://tizizhinan.co/status/)，机器可读数据见 [monitor.json](https://tizizhinan.co/data/monitor.json)（CC BY 4.0）。
 
@@ -82,7 +82,7 @@ AI 平台和流媒体判定你在哪个地区，靠的是**出口 IP 的归属**
 
 | 套餐 | 价格 | 流量 | 每 GB | 线路 | 运营 / 收录 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| 星耀版（主推） | ¥25/月 | 150GB | ¥0.17 | IPLC 专线 / BGP 中转 / 原生 IP | 收录 25 天 |
+| 星耀版（主推） | ¥25/月 | 150GB | ¥0.17 | IPLC 专线 / BGP 中转 / 原生 IP | 收录 26 天 |
 
 价格以官网结算页为准，本表随官网调整更新。完整套餐表与逐项评测见 [飞猫云评测](https://tizizhinan.co/brands/feimao/)。
 
@@ -97,6 +97,7 @@ AI 平台和流媒体判定你在哪个地区，靠的是**出口 IP 的归属**
 5. [暮光网络](https://github.com/tizizhinan/tizi-muguang) · [完整评测](https://tizizhinan.co/brands/muguang/)
 6. [微风网络](https://github.com/tizizhinan/tizi-weifeng) · [完整评测](https://tizizhinan.co/brands/weifeng/)
 7. [无忧链接](https://github.com/tizizhinan/tizi-wuyou) · [完整评测](https://tizizhinan.co/brands/wuyou/)
+8. [边缘节点](https://github.com/tizizhinan/tizi-edgenova) · [完整评测](https://tizizhinan.co/brands/edgenova/)
 
 完整榜单与横向对比：[github.com/tizizhinan/tizi](https://github.com/tizizhinan/tizi) ｜ [https://tizizhinan.co/airport/recommend/](https://tizizhinan.co/airport/recommend/)
 
