@@ -71,10 +71,10 @@ AI 平台和流媒体判定你在哪个地区，靠的是**出口 IP 的归属**
 
 | 指标 | 数值 |
 | :-- | :-- |
-| 最近一次检测 | 2026-11-13 20:00 |
-| 官网状态 | 在线（171ms） |
+| 最近一次检测 | 2026-11-14 20:03 |
+| 官网状态 | 在线（159ms） |
 | 30 天可用率 | 100%（已测 27 天） |
-| 连续正常 | 50 天 |
+| 连续正常 | 51 天 |
 
 可用率只按官网可达计算。逐日色条与完整历史见 [https://tizizhinan.blog/status/](https://tizizhinan.blog/status/)，机器可读数据见 [monitor.json](https://tizizhinan.blog/data/monitor.json)（CC BY 4.0）。
 
